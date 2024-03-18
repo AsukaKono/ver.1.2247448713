@@ -1,0 +1,13 @@
+.da {
+    background-color: #FFFFFF; /* Изменяем цвет фона */
+    text-align: left; /* Изменяем выравнивание текста */
+}
+
+.go {
+    font-size: 16px; /* Изменяем размер шрифта */
+    text-decoration: underline; /* Изменяем стиль декорации текста */
+    color: #FF0000; /* Изменяем цвет текста */
+    font-weight: normal; /* Изменяем настройку толщины шрифта */
+    text-shadow: none; /* Удаляем тень текста */
+}
+
